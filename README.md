@@ -5,6 +5,13 @@ Various KiCad Footprints and Symbols for various Projects
 
 https://github.com/TheSchilk/KiCad_Devices
 
+## RCA_Stereo
+
+Generic Stereo RCA Connector
+
+### Symbol
+
+![RCA_Stereo Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/RCA_Stereo/Doc/Symbol1.jpg)
 
 ## OMRON G6K-2F-Y Relay
 
