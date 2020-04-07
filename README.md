@@ -13,6 +13,16 @@ Generic Stereo RCA Connector
 
 ![RCA_Stereo Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/RCA_Stereo/Doc/Symbol1.jpg)
 
+## KobiCon_161-4220-E Dual RCA
+
+**STATUS:** Untested, waiting on board
+
+### Symbol
+Use "RCA_Stereo" from this repo
+
+### Footprint
+![KobiCon_161-4220-E Footprint](https://github.com/TheSchilk/KiCad_Devices/blob/master/KobiCon_161-4220-E%20Dual%20RCA/Doc/Footprint1.jpg)
+
 ## OMRON G6K-2F-Y Relay
 
 **STATUS:** Ended up using different device, footprint untested.
