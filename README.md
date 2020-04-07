@@ -38,7 +38,15 @@ Use "RCA_Stereo" from this repo
 
 ![OMROM G6K-2F-Y Footprint](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/OMRON_G6K-2F-Y%20Relay/Doc/Footprint1.jpg)
 
+## ALPS_SPUN191400 Switch
+**STATUS:** Waiting on PCB
 
+### Symbol
+Use Default KiCad "Switch:SW_DPDT_x2"
+
+### Footprint
+
+![ALPS_SPUN191400 Switch Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/ALPS_SPUN191400%20Switch/Doc/Footprint1.jpg)
 
 
 ## [TEMPLATE DEVICE]
