@@ -61,6 +61,13 @@ Use Default KiCad "Switch:SW_DPDT_x2"
 
 ![ALPS_SPUN191400 Switch Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/ALPS_SPUN191400%20Switch/Doc/Footprint1.jpg)
 
+## YM2612 FM Synth IC
+
+### Symbol
+
+![Yamaha YM2612 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/YM2612/Doc/Symbol1.png)
+
+
 
 ## [TEMPLATE DEVICE]
 
