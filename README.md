@@ -67,6 +67,11 @@ Use Default KiCad "Switch:SW_DPDT_x2"
 
 ![Yamaha YM2612 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/YM2612/Doc/Symbol1.png)
 
+## SN76489
+
+### Symbol
+
+![SN76489 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN76489/Doc/Symbol1.jpg)
 
 
 ## [TEMPLATE DEVICE]
