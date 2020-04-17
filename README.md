@@ -73,6 +73,15 @@ Use Default KiCad "Switch:SW_DPDT_x2"
 
 ![SN76489 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN76489/Doc/Symbol1.jpg)
 
+## SN74LVC4245A
+BiDirectional, Tristate-able, LevelShifting Octal Buffer
+
+### Symbol
+
+![SN74LVC4245A Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN74LVC4245A/Doc/Symbol1.jpg)
+
+
+
 
 ## [TEMPLATE DEVICE]
 
