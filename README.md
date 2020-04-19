@@ -80,7 +80,14 @@ BiDirectional, Tristate-able, LevelShifting Octal Buffer
 
 ![SN74LVC4245A Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN74LVC4245A/Doc/Symbol1.jpg)
 
+## Jack 3.5mm Switchcraft 35RASMT4BHNTRX
 
+### Symbol
+Use Connector:AudioJack3_SwitchTR
+
+### Footprint
+
+![Connector:AudioJack3_SwitchTR Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Jack_3.5mm_Switchcraft_35RASMT4BHNTRX/Doc/Footprint1.jpg)
 
 
 ## [TEMPLATE DEVICE]
