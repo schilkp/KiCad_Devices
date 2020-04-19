@@ -96,6 +96,13 @@ Simple Boost Converter IC
 
 ![AP3012 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/AP3012/Doc/Symbol1.jpg)
 
+## SSD1309_24PinInterface
+Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins.
+
+### Symbol
+
+![SSD1309_24PinInterface Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SSD1309_24PinInterface/Doc/Symbol1.jpg)
+
 ## [TEMPLATE DEVICE]
 
 **STATUS:**
