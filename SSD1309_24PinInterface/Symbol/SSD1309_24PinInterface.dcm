@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SSD1309_24PinInterface
+D Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins.
+$ENDCMP
+#
 #End Doc Library
