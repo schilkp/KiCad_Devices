@@ -114,6 +114,17 @@ Stereo Headphone Amp
 
 ![LM4910 Symbol](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/LM4910/Doc/Symbol1.jpg)
 
+## TRS_6.35mm_PCB
+
+**STATUS:** Untested, waiting on board
+
+### Symbol
+Use AudioJack3_Switch Or no/less switches
+
+### Footprint
+
+![TRS_6.35mm_PCB Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/TRS_6.35mm_PCB/Doc/Footprint1.jpg)
+
 ## [TEMPLATE DEVICE]
 
 **STATUS:**
