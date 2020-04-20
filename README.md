@@ -125,6 +125,17 @@ Use AudioJack3_Switch Or no/less switches
 
 ![TRS_6.35mm_PCB Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/TRS_6.35mm_PCB/Doc/Footprint1.jpg)
 
+## DIN5_MIDI
+
+**STATUS:** Untested, waiting on board
+
+### Symbol
+Use DIN-5
+
+### Footprint
+
+![DIN5_MIDI Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/DIN5_MIDI/Doc/Footprint1.jpg)
+
 ## [TEMPLATE DEVICE]
 
 **STATUS:**
