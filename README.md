@@ -136,6 +136,18 @@ Use DIN-5
 
 ![DIN5_MIDI Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/DIN5_MIDI/Doc/Footprint1.jpg)
 
+## BarrelPolarity_3mm
+A smaller barrel jack polarity indicator
+
+### Symbol
+
+![BarrelPolarity_3mm Symbol1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/BarrelPolarity_3mm/Doc/Symbol1.jpg)
+
+### Footprint
+
+![BarrelPolarity_3mm Symbol1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/BarrelPolarity_3mm/Doc/Footprint1.jpg)
+
+
 ## [TEMPLATE DEVICE]
 
 **STATUS:**

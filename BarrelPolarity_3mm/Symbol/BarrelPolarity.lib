@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BarrelPolarity_CenterNeg
+#
+DEF BarrelPolarity_CenterNeg G 0 40 Y Y 1 F N
+F0 "G" 0 300 50 H V C CNN
+F1 "BarrelPolarity_CenterNeg" 0 200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 0 100 901 -901 0 1 12 N 0 100 0 -100
+C 0 0 50 0 1 12 N
+C 200 0 50 0 1 12 N
+C -200 0 50 1 1 12 N
+P 2 0 1 12 -200 25 -200 -25 N
+P 2 0 1 12 -175 0 -225 0 N
+P 2 0 1 12 -150 0 -100 0 N
+P 2 0 1 12 50 0 150 0 N
+P 2 0 1 12 175 0 225 0 N
+ENDDRAW
+ENDDEF
+#
+# BarrelPolarity_CenterPos
+#
+DEF BarrelPolarity_CenterPos G 0 40 Y Y 1 F N
+F0 "G" 0 300 50 H V C CNN
+F1 "BarrelPolarity_CenterPos" 0 200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A 0 0 100 901 -901 0 1 12 N 0 100 0 -100
+C 0 0 50 0 1 12 N
+C 200 0 50 0 1 12 N
+C -200 0 50 1 1 12 N
+P 2 0 1 12 -175 0 -225 0 N
+P 2 0 1 12 -150 0 -100 0 N
+P 2 0 1 12 50 0 150 0 N
+P 2 0 1 12 175 0 225 0 N
+P 2 0 1 12 200 25 200 -25 N
+ENDDRAW
+ENDDEF
+#
+#End Library
