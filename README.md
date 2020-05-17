@@ -93,6 +93,18 @@ Use Connector:AudioJack3_SwitchTR
 
 ![Connector:AudioJack3_SwitchTR Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Jack_3.5mm_Switchcraft_35RASMT4BHNTRX/Doc/Footprint1.jpg)
 
+## Jack 3.5mm PJ-313D-6A
+
+**STATUS:** Untested
+
+### Symbol
+Use Connector:AudioJack3
+
+### Footprint
+
+![Jack 3.5mm PJ-313D-6A Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Jack_3.5mm_PJ-313D-6A/Doc/Footprint1.jpg)
+
+
 ## AP3012
 Simple Boost Converter IC
 
