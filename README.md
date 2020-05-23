@@ -158,6 +158,17 @@ A smaller barrel jack polarity indicator
 
 ![BarrelPolarity_3mm Symbol1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/BarrelPolarity_3mm/Doc/Footprint1.jpg)
 
+## XSD-C4649_TO220_Heatsink
+
+**STATUS:** Untested, waiting on board
+
+### Symbol
+Use Heatsink or Heatsink_Pad
+
+### Footprint
+
+![XSD-C4649_TO220_Heatsink Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg)
+
 
 ## [TEMPLATE DEVICE]
 
