@@ -79,7 +79,7 @@ BiDirectional, Tristate-able, LevelShifting Octal Buffer
 
 ## Jack 3.5mm Switchcraft 35RASMT4BHNTRX
 
-**STATUS:** Untested
+**STATUS:** Untested, Maybe Borked?
 
 ### Symbol
 Use Connector:AudioJack3_SwitchTR
