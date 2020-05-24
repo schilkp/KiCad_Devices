@@ -169,6 +169,13 @@ Use Heatsink or Heatsink_Pad
 
 ![XSD-C4649_TO220_Heatsink Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg)
 
+## RGB_LED_1.6x1.6x0.6
+
+**STATUS:** Untested, waiting on board
+
+###  Footprint
+
+![RGB_LED_1.6x1.6x0.6 Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/RGB_LED_1.6x1.6x0.6/Doc/Footprint1.jpg)
 
 ## [TEMPLATE DEVICE]
 
