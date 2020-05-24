@@ -48,7 +48,6 @@ Use "RCA_Stereo" from this repo
 ![Panasonic TQ2SA Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Footprint1.jpg)
 
 ## ALPS_SPUN191400 Switch
-**STATUS:** Waiting on PCB
 
 ### Symbol
 Use Default KiCad "Switch:SW_DPDT_x2"
