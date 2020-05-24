@@ -15,8 +15,6 @@ Generic Stereo RCA Connector
 
 ## KobiCon_161-4220-E Dual RCA
 
-**STATUS:** Untested, waiting on board
-
 ### Symbol
 Use "RCA_Stereo" from this repo
 
