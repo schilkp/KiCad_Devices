@@ -38,8 +38,6 @@ Use "RCA_Stereo" from this repo
 
 ## Panasonic TQ2SA Relay
 
-**STATUS:** Untested, waiting on board
-
 ### Symbol
 
 ![Panasonic TQ2SA Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Symbol1.jpg)
