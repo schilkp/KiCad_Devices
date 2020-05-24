@@ -42,7 +42,7 @@ Use "RCA_Stereo" from this repo
 
 ![Panasonic TQ2SA Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Symbol1.jpg)
 
-![Panasonic TQ2SA Symbol 2](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Symbol2.png)
+![Panasonic TQ2SA Symbol 2](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Symbol2.jpg)
 
 ### Footprint
 ![Panasonic TQ2SA Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Panasonic%20TQ2SA%20Relay/Doc/Footprint1.jpg)
