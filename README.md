@@ -10,6 +10,7 @@ https://github.com/TheSchilk/KiCad_Devices
 | *Name* | *Symbol* | *Footprint* |
 |--------|----------|-------------|
 | **74HC161** <br/> 4Bit Sync Counter with par. load and async clear | ![74HC161 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/74HC161/Doc/Symbol1.jpg) | | 
+| **74LVC1G157** <br/> 2in 1out Mux | ![74LVC1G157 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/74LVC1G157/Doc/Symbol1.jpg) | | 
 | **ALPS_SPUN191400 Switch**  | Use Default KiCad "Switch:SW_DPDT_x2" | ![ALPS_SPUN191400 Switch Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/ALPS_SPUN191400%20Switch/Doc/Footprint1.jpg) |
 | **AP3012** <br/> Simple Boost Converter IC | ![AP3012 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/AP3012/Doc/Symbol1.jpg) | |
 | **BarrelPolarity_3mm** <br/> A smaller barrel jack polarity indicator | ![BarrelPolarity_3mm Symbol1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/BarrelPolarity_3mm/Doc/Symbol1.jpg) | ![BarrelPolarity_3mm Symbol1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/BarrelPolarity_3mm/Doc/Footprint1.jpg) |
