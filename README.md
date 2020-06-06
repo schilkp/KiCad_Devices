@@ -1,7 +1,7 @@
 # Schilk's KiCad Devices
 Various KiCad Footprints and Symbols for various Projects
 
-(c) Philipp Schilk, 2020
+Philipp Schilk, 2020
 
 https://github.com/TheSchilk/KiCad_Devices
 
