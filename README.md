@@ -31,6 +31,7 @@ https://github.com/TheSchilk/KiCad_Devices
 | **SN76489** <br/> 3 Programmable Tone Generators, Programmable White Noise Generator | ![SN76489 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN76489/Doc/Symbol1.jpg) | |
 | **SSD1309_24PinInterface** <br/> Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins. | ![SSD1309_24PinInterface Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SSD1309_24PinInterface/Doc/Symbol1.jpg) | |
 | **TRS_6.35mm_PCB** <br/> **STATUS:** Untested, waiting on board | Use AudioJack3_Switch Or no/less switches | ![TRS_6.35mm_PCB Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/TRS_6.35mm_PCB/Doc/Footprint1.jpg) |
+| **VOM1271** <br/> Optocoupler with photodiode output | ![VOM1271 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/VOM1271/Doc/Symbol1.jpg) | |
 | **XSD-C4649_TO220_Heatsink** <br/> **STATUS:** Untested, waiting on board | Use Heatsink or Heatsink_Pad | ![XSD-C4649_TO220_Heatsink Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg) | 
 | **YM2612 FM Synth IC** <br/> 6 Ch, 4 Operator FM Synth IC | ![Yamaha YM2612 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/YM2612/Doc/Symbol1.png) | |
 
