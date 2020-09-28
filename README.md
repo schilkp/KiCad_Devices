@@ -34,6 +34,7 @@ https://github.com/TheSchilk/KiCad_Devices
 | **RGB_LED_1.6x1.6x0.6** <br/> **STATUS:** Untested, waiting on board | | ![RGB_LED_1.6x1.6x0.6 Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/RGB_LED_1.6x1.6x0.6/Doc/Footprint1.jpg) | 
 | **SN74LVC4245A** <br/> BiDirectional, Tristate-able, LevelShifting Octal Buffer | ![SN74LVC4245A Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN74LVC4245A/Doc/Symbol1.jpg) | |
 | **SN76489** <br/> 3 Programmable Tone Generators, Programmable White Noise Generator | ![SN76489 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SN76489/Doc/Symbol1.jpg) | |
+| **SOT763-1_DHVQFN16** <br/> **STATUS:** Untested | | ![SOT763-1_DHVQFN16 Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SOT763-1_DHVQFN16/Doc/Footprint1.jpg) | 
 | **SOT764-1_DHVQFN20** <br/> **STATUS:** Untested | | ![SOT764-1_DHVQFN20 Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SOT764-1_DHVQFN20/Doc/Footprint1.jpg) | 
 | **SSD1309_24PinInterface** <br/> Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins. | ![SSD1309_24PinInterface Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/SSD1309_24PinInterface/Doc/Symbol1.jpg) | |
 | **TRS_6.35mm_PCB** <br/> **STATUS:** Untested, waiting on board | Use AudioJack3_Switch Or no/less switches | ![TRS_6.35mm_PCB Footprint1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/TRS_6.35mm_PCB/Doc/Footprint1.jpg) |
