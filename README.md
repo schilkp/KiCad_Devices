@@ -24,6 +24,7 @@ https://github.com/TheSchilk/KiCad_Devices
 | **Jack 3.5mm PJ-313D-6A** <br/> **STATUS:** Untested | Use Connector:AudioJack3 | ![Jack 3.5mm PJ-313D-6A Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Jack_3.5mm_PJ-313D-6A/Doc/Footprint1.jpg) | 
 | **Jack 3.5mm Switchcraft 35RASMT4BHNTRX** <br/> **STATUS:** Untested, Maybe Borked? | Use Connector:AudioJack3_SwitchTR | ![Jack 3.5mm Switchcraft 35RASMT4BHNTRX Footprint 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/Jack_3.5mm_Switchcraft_35RASMT4BHNTRX/Doc/Footprint1.jpg) | 
 | **KobiCon_161-4220-E Dual RCA** <br/> Use "RCA_Stereo" from this repo |  | ![KobiCon_161-4220-E Footprint](https://github.com/TheSchilk/KiCad_Devices/blob/master/KobiCon_161-4220-E%20Dual%20RCA/Doc/Footprint1.jpg) |
+| **Leader_SMS405** <br/> SMD Shield| | ![Leader_SMS405 Footprint](https://github.com/TheSchilk/KiCad_Devices/blob/master/Leader_SMS405/Doc/Footprint1.jpg) |
 | **LM4910** <br/> Stereo Headphone Amp | ![LM4910 Symbol](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/LM4910/Doc/Symbol1.jpg) | |
 | **LMV7235** <br/> High-speed, low-voltage, comparator. | ![LMV7235 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/LMV7235/Doc/Symbol1.jpg) | | 
 | **MAX7601** <br/> Voltage Reference| ![LMV7235 Symbol 1](https://raw.githubusercontent.com/TheSchilk/KiCad_Devices/master/MAX7601/Doc/Symbol1.jpg) | | 
