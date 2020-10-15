@@ -1,0 +1,4 @@
+{
+  "Device_Name": "ARM SWD",
+  "Device_Description": " 1.27mm 2x5 Serial wire Debug Connector used by many ARM MCUs. Footprint allows for both SMD and TH jack. Includes footprint with and without solder paste "
+}
