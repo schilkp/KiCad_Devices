@@ -24,8 +24,14 @@ def link_path_clean(path):
         path = path.lstrip("./")
     if path.startswith("../"):
         path = path.lstrip("../")
-
     return path
+
+
+def nbsp_pad(count):
+    result = ""
+    for i in range(count):
+        result += "&nbsp;"
+    return result
 
 
 class Device:
@@ -133,11 +139,21 @@ except FileNotFoundError:
     exit()
 
 # Make sure all needed settings are specified:
-needed_settings = ['Ignore_Directories', 'Table_ColumnName', 'Table_ColumnSymbol', 'Table_ColumnFootprint']
+needed_settings = ['ImageResize_Width_Default', 'Image_Directory', 'SymbolImage_Name', 'FootprintImage_Name',
+                   'ResizedImage_Directory', 'Table_nbsp_Pad_Device', 'Table_nbsp_Pad_Symbol',
+                   'Table_nbsp_Pad_Footprint', 'Ignore_Directories']
 
 for setting in needed_settings:
     if setting not in global_settings:
         print('Error: Setting.json does not specify \'' + setting + '\'')
+        exit()
+
+# Make sure the padding counts are int:
+if not isinstance(global_settings['Table_nbsp_Pad_Device'], int) \
+        or not isinstance(global_settings['Table_nbsp_Pad_Symbol'], int) \
+        or not isinstance(global_settings['Table_nbsp_Pad_Footprint'], int):
+    print('Error: nbsp padding count needs to be an int!')
+    exit()
 
 # ==== Parse Library ====
 lib = []
@@ -148,7 +164,7 @@ for directory in directories:
     if directory not in global_settings['Ignore_Directories']:
         try:
             if ' ' in directory:
-                raise DeviceParseError("Error: Folder name contains space: "+directory)
+                raise DeviceParseError("Error: Folder name contains space: " + directory)
             lib.append(Device(join(working_dir, directory), global_settings))
         except DeviceParseError as e:
             print(e)
@@ -178,10 +194,14 @@ with open(settings_dir + '/README_PREFIX.md') as prefix_file:
 
 # Generate Table header
 
-readme += "| " + global_settings['Table_ColumnName'] + \
-          " | " + global_settings['Table_ColumnSymbol'] + \
-          " | " + global_settings['Table_ColumnFootprint'] + \
-          " |\n"
+pad_dev = global_settings['Table_nbsp_Pad_Device']
+pad_sym = global_settings['Table_nbsp_Pad_Symbol']
+pad_foot = global_settings['Table_nbsp_Pad_Footprint']
+
+readme += "|" + nbsp_pad(pad_dev) + "**Device**" + nbsp_pad(pad_dev) + \
+          "|" + nbsp_pad(pad_sym) + "**Symbol**" + nbsp_pad(pad_sym) + \
+          "|" + nbsp_pad(pad_foot) + "**Footprint**" + nbsp_pad(pad_foot) + \
+          "|\n"
 
 readme += "|---|---|---|\n"
 

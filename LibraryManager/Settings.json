@@ -1,12 +1,11 @@
 {
-  "DirectoryURL_Prefix": "https://github.com/TheSchilk/KiCad_Devices/tree/master/",
-  "Table_ColumnName": "*Name*",
-  "Table_ColumnSymbol": "*Symbol*",
-  "Table_ColumnFootprint": "*Footprint*",
-  "ImageResize_Width_Default": 300,
+  "ImageResize_Width_Default": 200,
   "Image_Directory": "Doc",
   "SymbolImage_Name" : "Symbol",
   "FootprintImage_Name" : "Footprint",
   "ResizedImage_Directory": "scaled",
+  "Table_nbsp_Pad_Device": 0,
+  "Table_nbsp_Pad_Symbol": 15,
+  "Table_nbsp_Pad_Footprint": 15,
   "Ignore_Directories": [".git","LibraryManager","TestProject"]
 }

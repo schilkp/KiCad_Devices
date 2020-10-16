@@ -12,7 +12,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 # List of Devices:
 
 
-| *Name* | *Symbol* | *Footprint* |
+| *Name* |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Symbol*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Footprint*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|---|---|
 | **74HC161** <br/> 4Bit Sync Counter with par. load and async clear  |  <br/> ![74HC161 Symbol ](74HC161/Doc/Symbol1.jpg) |  |
 | **74LVC1G157** <br/> 2in 1out Mux |  <br/> ![74LVC1G157 Symbol ](74LVC1G157/Doc/Symbol1.jpg) |  |
