@@ -173,16 +173,13 @@ for directory in directories:
             did_warn = True
             print(e)
 
-# Ask before continuing if we warned.
-
-
 # ==== Cleanup previously generated files ====
 
 readme_path = join(working_dir, 'README.md')
 if isfile(readme_path):
     os.remove(readme_path)
 
-# ==== Generate Images (later) ====
+# ==== Generate Images (later/TODO) ====
 
 # ==== Generate README ====
 readme = ""

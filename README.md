@@ -12,7 +12,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 # List of Devices:
 
 
-| *Name* |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Symbol*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Footprint*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|**Device**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Symbol**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Footprint**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|---|---|
 | **74HC161** <br/> 4Bit Sync Counter with par. load and async clear  |  <br/> ![74HC161 Symbol ](74HC161/Doc/Symbol1.jpg) |  |
 | **74LVC1G157** <br/> 2in 1out Mux |  <br/> ![74LVC1G157 Symbol ](74LVC1G157/Doc/Symbol1.jpg) |  |
@@ -50,5 +50,9 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **XSD-C4649_TO220_Heatsink** <br/> Small, cheap, TO220 Heatsink | Use Heatsink or Heatsink_Pad |  <br/> ![XSD-C4649_TO220_Heatsink Footprint ](XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg)  |
 | **YM2612** <br/> Vintage 6 Ch, 4 Operator FM Synth IC |  <br/> ![YM2612 Symbol ](YM2612/Doc/Symbol1.png) |  |
 
-# Python Library Manager:
-Managed using a Python script in /LibraryManager/
+# Python Readme Manager:
+Managed using a Python script in LibraryManager/
+
+To re-generate this readme, run LibraryManager/LibraryManager.py from the root of the repository (or from LibraryManager/).
+
+This file is then regenerated using the Device.json files in each folder.
