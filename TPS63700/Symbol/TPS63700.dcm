@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63700
+D -15V to -2V inverting DC/DC Converter
+$ENDCMP
+#
+#End Doc Library

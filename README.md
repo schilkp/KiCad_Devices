@@ -45,6 +45,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **SOT763-1_DHVQFN16** <br/> **STATUS:** Untested |  |  <br/> ![SOT763-1_DHVQFN16 Footprint ](SOT763-1_DHVQFN16/Doc/Footprint1.jpg)  |
 | **SOT764-1_DHVQFN20** <br/> **STATUS:** Untested |  |  <br/> ![SOT764-1_DHVQFN20 Footprint ](SOT764-1_DHVQFN20/Doc/Footprint1.jpg)  |
 | **SSD1309_24PinInterface** <br/> Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins. |  <br/> ![SSD1309_24PinInterface Symbol ](SSD1309_24PinInterface/Doc/Symbol1.jpg) |  |
+| **TPS63700** <br/> -15V to -2V inverting DC/DC Converter |  <br/> ![TPS63700 Symbol ](TPS63700/Doc/Symbol1.jpg) |  |
 | **TRS_6.35mm_PCB** <br/> **STATUS:** Untested. | Use AudioJack3_Switch Or no/less switches |  <br/> ![TRS_6.35mm_PCB Footprint ](TRS_6.35mm_PCB/Doc/Footprint1.jpg)  |
 | **VOM1271** <br/> Optocoupler with photodiode output |  <br/> ![VOM1271 Symbol ](VOM1271/Doc/Symbol1.jpg) |  |
 | **XSD-C4649_TO220_Heatsink** <br/> Small, cheap, TO220 Heatsink | Use Heatsink or Heatsink_Pad |  <br/> ![XSD-C4649_TO220_Heatsink Footprint ](XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg)  |
