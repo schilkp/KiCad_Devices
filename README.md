@@ -34,6 +34,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **LM4910** <br/> Stereo Headphone Amp |  <br/> ![LM4910 Symbol ](LM4910/Doc/Symbol1.jpg) |  |
 | **LMV7235** <br/> High-speed, low-voltage, comparator |  <br/> ![LMV7235 Symbol ](LMV7235/Doc/Symbol1.jpg) |  |
 | **MAX7601** <br/> Voltage Reference |  <br/> ![MAX7601 Symbol ](MAX6071/Doc/Symbol1.jpg) |  |
+| **MIC5270** <br/> Very small footprint negative linearvoltage regulators. |  <br/> ![MIC5270 Symbol ](MIC5270/Doc/Symbol1.jpg) |  |
 | **OMRON G6K-2F-Y Relay** <br/> **Untested**  |  <br/> ![OMRON G6K-2F-Y Relay Symbol ](OMRON_G6K-2F-Y_Relay/Doc/Symbol1.jpg) <br/> ![OMRON G6K-2F-Y Relay Symbol ](OMRON_G6K-2F-Y_Relay/Doc/Symbol2.jpg) |  <br/> ![OMRON G6K-2F-Y Relay Footprint ](OMRON_G6K-2F-Y_Relay/Doc/Footprint1.jpg)  |
 | **OPA145DBV** <br/>  |  <br/> ![OPA145DBV Symbol ](OPA145DBV/Doc/Symbol1.jpg) |  |
 | **Panasonic TQ2SA Relay** <br/>  |  <br/> ![Panasonic TQ2SA Relay Symbol ](Panasonic_TQ2SA_Relay/Doc/Symbol1.jpg) <br/> ![Panasonic TQ2SA Relay Symbol ](Panasonic_TQ2SA_Relay/Doc/Symbol2.jpg) |  <br/> ![Panasonic TQ2SA Relay Footprint ](Panasonic_TQ2SA_Relay/Doc/Footprint1.jpg)  |
