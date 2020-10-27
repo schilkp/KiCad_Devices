@@ -1,0 +1,5 @@
+{
+  "Device_Name": "LDK320 LDK220",
+  "Device_Description": "Very small footprint voltage regulators.",
+  "Footprint_Note": "Symbols kompatible with SOT32-5 and SOT323-5 pinouts."
+}
