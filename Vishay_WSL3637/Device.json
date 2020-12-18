@@ -1,4 +1,5 @@
 {
   "Device_Name": "Vishay_WSL3637",
-  "Device_Description": "Large, Kelvin-Connection Current Sensing Resistor. Note that there is a different footprint for smaller resistances."
+  "Device_Description": "Large, Kelvin-Connection Current Sensing Resistor. Note that there is a different footprint for smaller resistances.",
+  "Symbol_Note": "Use R_Shunt."
 }
