@@ -20,6 +20,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **ALPS_SPUN191400 Switch** <br/>  | Use Default KiCad "Switch:SW_DPDT_x2" |  <br/> ![ALPS_SPUN191400 Switch Footprint ](ALPS_SPUN191400_Switch/Doc/Footprint1.jpg)  |
 | **AP3012** <br/> Simple Boost Converter IC |  <br/> ![AP3012 Symbol ](AP3012/Doc/Symbol1.jpg) |  |
 | **ARM SWD** <br/>  1.27mm 2x5 Serial wire Debug Connector used by many ARM MCUs. Footprint allows for both SMD and TH jack. Includes footprint with and without solder paste  |  <br/> ![ARM SWD Symbol ](ARM_SWD/Doc/Symbol1.jpg) |  <br/> ![ARM SWD Footprint ](ARM_SWD/Doc/Footprint1.jpg)  |
+| **ATF16V8C CPLD** <br/>  |  <br/> ![ATF16V8C CPLD Symbol ](ATF16V8C/Doc/Symbol1.jpg) |  |
 | **BarrelPolarity 3mm** <br/> A smaller barrel jack polarity indicator |  <br/> ![BarrelPolarity 3mm Symbol ](BarrelPolarity_3mm/Doc/Symbol1.jpg) |  <br/> ![BarrelPolarity 3mm Footprint ](BarrelPolarity_3mm/Doc/Footprint1.jpg)  |
 | **Bourns 3362P** <br/> Small TH Trimmer pot |  |  <br/> ![Bourns 3362P Footprint ](Bourns_3362P/Doc/Footprint1.jpg)  |
 | **DIN5_MIDI** <br/> A TH, Right-angle MIDI Jack. | Use DIN-5 |  <br/> ![DIN5_MIDI Footprint ](DIN5_MIDI/Doc/Footprint1.jpg)  |
