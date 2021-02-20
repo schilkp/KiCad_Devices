@@ -1,5 +1,5 @@
 {
   "Device_Name": "NoRef Footprints",
   "Device_Description": "Standard footprints with no silkscreen reference.",
-  "Footprint_Note": "Including 0603 R/C/LED, 0402 LED"
+  "Footprint_Note": "Including 0603 R/C/LED, 0402 R/LED"
 }
