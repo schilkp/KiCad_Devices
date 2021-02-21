@@ -1,11 +1,11 @@
-(module R_0603_1608Metric (layer F.Cu) (tedit 602CFA60)
+(module R_0603_1608Metric_NoRef (layer F.Cu) (tedit 602CFA60)
   (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags resistor)
   (attr smd)
   (fp_text reference REF** (at 0 -1.43) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value R_0603_1608Metric (at 0 1.43) (layer F.Fab)
+  (fp_text value R_0603_1608Metric_NoRef (at 0 1.43) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.48 0.73) (end -1.48 0.73) (layer F.CrtYd) (width 0.05))
