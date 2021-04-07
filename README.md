@@ -60,8 +60,15 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **YM2612** <br/> Vintage 6 Ch, 4 Operator FM Synth IC |  <br/> ![YM2612 Symbol ](YM2612/Doc/Symbol1.png) |  |
 
 # Python Readme Manager:
-Managed using a Python script in LibraryManager/
+This file is managed using a python script (_Library_Manager/LibraryManager.py)
 
-To re-generate this readme, run LibraryManager/LibraryManager.py from the root of the repository (or from LibraryManager/).
+Each Device features a Device.json file, which is parsed by this script
+to extract all relevant information for this file.
 
-This file is then regenerated using the Device.json files in each folder.
+To re-generate this README, run:
+
+```bash
+> make
+```
+
+In the root of this repository.
