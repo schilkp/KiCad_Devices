@@ -7,5 +7,5 @@
   "Table_nbsp_Pad_Device": 0,
   "Table_nbsp_Pad_Symbol": 15,
   "Table_nbsp_Pad_Footprint": 15,
-  "Ignore_Directories": [".git","LibraryManager","TestProject"]
+  "Ignore_Directories": [".git","_Library_Manager","TestProject"]
 }

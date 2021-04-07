@@ -121,9 +121,9 @@ global_settings = None
 if isfile('Settings.json'):
     working_dir = ".."
     settings_dir = "."
-elif isfile('LibraryManager/Settings.json'):
+elif isfile('_Library_Manager/Settings.json'):
     working_dir = "."
-    settings_dir = "LibraryManager"
+    settings_dir = "_Library_Manager"
 else:
     print('Error: Settings.json not found!')
     exit()
