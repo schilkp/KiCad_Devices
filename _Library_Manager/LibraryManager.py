@@ -21,9 +21,9 @@ class DeviceParseError(Exception):
 
 def link_path_clean(path):
     if path.startswith("./"):
-        path = path.lstrip("./")
+        path = path.replace("./", "", 1)
     if path.startswith("../"):
-        path = path.lstrip("../")
+        path = path.replace("../", "", 1)
     return path
 
 
