@@ -44,6 +44,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **Panasonic TQ2SA Relay** <br/>  |  <br/> ![Panasonic TQ2SA Relay Symbol ](Panasonic_TQ2SA_Relay/Doc/Symbol1.jpg) <br/> ![Panasonic TQ2SA Relay Symbol ](Panasonic_TQ2SA_Relay/Doc/Symbol2.jpg) |  <br/> ![Panasonic TQ2SA Relay Footprint ](Panasonic_TQ2SA_Relay/Doc/Footprint1.jpg)  |
 | **PIC12F1571 PIC12F1572** <br/>  |  <br/> ![PIC12F1571 PIC12F1572 Symbol ](PIC12F1571_1572/Doc/Symbol1.jpg) |  |
 | **PLCC-32_11.4x14.0mm_P1.27mm_SMD-Socket** <br/>  |  |  <br/> ![PLCC-32_11.4x14.0mm_P1.27mm_SMD-Socket Footprint ](PLCC-32_11.4x14.0mm_P1.27mm_SMD-Socket/Doc/Footprint1.jpg)  |
+| **QMC5883l** <br/> 3-Axis Compass/Mag |  <br/> ![QMC5883l Symbol ](QMC5883l/Doc/Symbol1.jpg) |  |
 | **Q_NMOS_SSSGD** <br/> NMOS with SSSGD Pinout. (i.e. BUK9Y38-100) |  <br/> ![Q_NMOS_SSSGD Symbol ](Q_NMOS_SSSGD/Doc/Symbol1.jpg) |  |
 | **RCA_Stereo** <br/> Generic Stereo RCA Connector |  <br/> ![RCA_Stereo Symbol ](RCA_Stereo/Doc/Symbol1.jpg) |  |
 | **RGB_LED_1.6x1.6x0.6** <br/>  |  |  <br/> ![RGB_LED_1.6x1.6x0.6 Footprint ](RGB_LED_1.6x1.6x0.6/Doc/Footprint1.jpg)  |
