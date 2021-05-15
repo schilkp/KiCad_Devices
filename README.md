@@ -15,6 +15,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 |**Device**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Symbol**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Footprint**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|---|---|
 | **74HC161** <br/> 4Bit Sync Counter with par. load and async clear  |  <br/> ![74HC161 Symbol ](74HC161/Doc/Symbol1.jpg) |  |
+| **74HC594** <br/> 8-bit serial-in parallel-out shift register with async clear. |  <br/> ![74HC594 Symbol ](74HC594/Doc/Symbol1.jpg) |  |
 | **74LVC1G157** <br/> 2in 1out Mux |  <br/> ![74LVC1G157 Symbol ](74LVC1G157/Doc/Symbol1.jpg) |  |
 | **AD8223** <br/> Single-Supply, Low Cost Instrumentation Amplifier |  <br/> ![AD8223 Symbol ](AD8223/Doc/Symbol1.jpg) |  |
 | **ALPS_SPUN191400 Switch** <br/>  | Use Default KiCad "Switch:SW_DPDT_x2" |  <br/> ![ALPS_SPUN191400 Switch Footprint ](ALPS_SPUN191400_Switch/Doc/Footprint1.jpg)  |
