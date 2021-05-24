@@ -1,0 +1,3 @@
+# Show Kicad footprints + symbols:
+*.lib linguist-detectable
+*.kicad_mod linguist-detectable
