@@ -49,6 +49,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **Q_NMOS_SSSGD** <br/> NMOS with SSSGD Pinout. (i.e. BUK9Y38-100) |  <br/> ![Q_NMOS_SSSGD Symbol ](Q_NMOS_SSSGD/Doc/Symbol1.jpg) |  |
 | **RCA_Stereo** <br/> Generic Stereo RCA Connector |  <br/> ![RCA_Stereo Symbol ](RCA_Stereo/Doc/Symbol1.jpg) |  |
 | **RGB_LED_1.6x1.6x0.6** <br/>  |  |  <br/> ![RGB_LED_1.6x1.6x0.6 Footprint ](RGB_LED_1.6x1.6x0.6/Doc/Footprint1.jpg)  |
+| **Si875x** <br/> Isolated FET Driver |  <br/> ![Si875x Symbol ](Si875x/Doc/Symbol1.jpg) |  |
 | **SN74LVC4245A** <br/> BiDirectional, Tristate-able, LevelShifting Octal Buffer |  <br/> ![SN74LVC4245A Symbol ](SN74LVC4245A/Doc/Symbol1.jpg) |  |
 | **SN76489** <br/>  Programmable Tone Generators, Programmable White Noise Generator |  <br/> ![SN76489 Symbol ](SN76489/Doc/Symbol1.jpg) |  |
 | **SOT763-1_DHVQFN16** <br/> **STATUS:** Untested |  |  <br/> ![SOT763-1_DHVQFN16 Footprint ](SOT763-1_DHVQFN16/Doc/Footprint1.jpg)  |

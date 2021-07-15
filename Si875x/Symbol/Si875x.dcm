@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si8751
+D Isolated FET Driver (CMOS Input)
+$ENDCMP
+#
+$CMP Si8752
+D Isolated FET Driver (Diode Emulation Input)
+$ENDCMP
+#
+#End Doc Library
