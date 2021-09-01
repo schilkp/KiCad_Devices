@@ -18,6 +18,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **74HC594** <br/> 8-bit serial-in parallel-out shift register with async clear. |  <br/> ![74HC594 Symbol ](74HC594/Doc/Symbol1.jpg) |  |
 | **74LVC1G157** <br/> 2in 1out Mux |  <br/> ![74LVC1G157 Symbol ](74LVC1G157/Doc/Symbol1.jpg) |  |
 | **74LVC2G53** <br/> 2-1 Analog Switch (Did not like KiCad Symbol) |  <br/> ![74LVC2G53 Symbol ](74LVC2G53/Doc/Symbol1.jpg) |  |
+| **ACHS-712x** <br/> Isolated Hall Effect-Based Current Sensor. |  <br/> ![ACHS-712x Symbol ](ACHS-712x/Doc/Symbol1.png) |  |
 | **ACS710** <br/> Isolated MEMS Current Sensor |  <br/> ![ACS710 Symbol ](ACS710/Doc/Symbol1.jpg) |  |
 | **AD8223** <br/> Single-Supply, Low Cost Instrumentation Amplifier |  <br/> ![AD8223 Symbol ](AD8223/Doc/Symbol1.jpg) |  |
 | **ALPS_SPUN191400 Switch** <br/>  | Use Default KiCad "Switch:SW_DPDT_x2" |  <br/> ![ALPS_SPUN191400 Switch Footprint ](ALPS_SPUN191400_Switch/Doc/Footprint1.jpg)  |
