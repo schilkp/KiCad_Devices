@@ -57,6 +57,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **SN76489** <br/>  Programmable Tone Generators, Programmable White Noise Generator |  <br/> ![SN76489 Symbol ](SN76489/Doc/Symbol1.jpg) |  |
 | **SOT763-1_DHVQFN16** <br/> **STATUS:** Untested |  |  <br/> ![SOT763-1_DHVQFN16 Footprint ](SOT763-1_DHVQFN16/Doc/Footprint1.jpg)  |
 | **SOT764-1_DHVQFN20** <br/> **STATUS:** Untested |  |  <br/> ![SOT764-1_DHVQFN20 Footprint ](SOT764-1_DHVQFN20/Doc/Footprint1.jpg)  |
+| **Spitznagel SPK 0551212** <br/> Small TH Mains Transformer |  |  <br/> ![Spitznagel SPK 0551212 Footprint ](Spitznagel_SPK_0551212/Doc/Footprint1.png)  |
 | **SSD1309_24PinInterface** <br/> Symbol for Connector for OLEDs with SSD1309 IC that expose 24 pins. |  <br/> ![SSD1309_24PinInterface Symbol ](SSD1309_24PinInterface/Doc/Symbol1.jpg) |  |
 | **SST39SF0x0_TSOP** <br/> SST39SF0x0 Memories with TSOP-32 Pinout. |  <br/> ![SST39SF0x0_TSOP Symbol ](SST39SF0x0_TSOP/Doc/Symbol1.jpg) |  |
 | **STM32G483CEUx** <br/> STM32 MCU (not yet in KiCad Repo) |  <br/> ![STM32G483CEUx Symbol ](STM32G483CEUx/Doc/Symbol1.jpg) |  |
