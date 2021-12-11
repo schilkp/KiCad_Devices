@@ -62,6 +62,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **SST39SF0x0_TSOP** <br/> SST39SF0x0 Memories with TSOP-32 Pinout. |  <br/> ![SST39SF0x0_TSOP Symbol ](SST39SF0x0_TSOP/Doc/Symbol1.jpg) |  |
 | **STM32G483CEUx** <br/> STM32 MCU (not yet in KiCad Repo) |  <br/> ![STM32G483CEUx Symbol ](STM32G483CEUx/Doc/Symbol1.jpg) |  |
 | **ST STDC14 Connector** <br/> Extended ARM SWD Connector used by ST-Link-v3. |  <br/> ![ST STDC14 Connector Symbol ](ST_STDC14/Doc/Symbol1.png) |  |
+| **TE Connectivity 284093-[3,4]** <br/> 3/4 position, Vertical wire entry screw terminals. |  |  <br/> ![TE Connectivity 284093-[3,4] Footprint ](TE-284093/Doc/Footprint1.jpg)  |
 | **TPS63700** <br/> -15V to -2V inverting DC/DC Converter |  <br/> ![TPS63700 Symbol ](TPS63700/Doc/Symbol1.jpg) |  |
 | **TRS_6.35mm_PCB** <br/> **STATUS:** Untested. | Use AudioJack3_Switch Or no/less switches |  <br/> ![TRS_6.35mm_PCB Footprint ](TRS_6.35mm_PCB/Doc/Footprint1.jpg)  |
 | **Vishay_WSL3637** <br/> Large, Kelvin-Connection Current Sensing Resistor. Note that there is a different footprint for smaller resistances. | Use R_Shunt. |  <br/> ![Vishay_WSL3637 Footprint ](Vishay_WSL3637/Doc/Footprint1.jpeg)  |
