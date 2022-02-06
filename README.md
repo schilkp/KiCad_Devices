@@ -35,6 +35,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **IS62C256AL** <br/>  |  <br/> ![IS62C256AL Symbol ](IS62C256AL/Doc/Symbol1.jpg) |  <br/> ![IS62C256AL Footprint ](IS62C256AL/Doc/Footprint1.jpg)  |
 | **Jack 3.5mm PJ-313D-6A** <br/> **STATUS:** Untested | Use Connector:AudioJack3 |  <br/> ![Jack 3.5mm PJ-313D-6A Footprint ](Jack_3.5mm_PJ-313D-6A/Doc/Footprint1.jpg)  |
 | **Jack 3.5mm Switchcraft 35RASMT4BHNTRX** <br/> **STATUS:** Untested, Maybe Borked?! | Use Connector:AudioJack3_SwitchTR |  <br/> ![Jack 3.5mm Switchcraft 35RASMT4BHNTRX Footprint ](Jack_3.5mm_Switchcraft_35RASMT4BHNTRX/Doc/Footprint1.jpg)  |
+| **JLCPCB SMT Assembly Tooling Hole** |  |  <br/> ![JLCPCB SMT Assembly Tooling Hole Footprint ](jlcpcb_tooling_hole/Doc/Footprint1.jpg)  |
 | **KobiCon_161-4220-E Dual RCA** <br/> Stereo RCA Jack | Use "RCA_Stereo" from this repo |  <br/> ![KobiCon_161-4220-E Dual RCA Footprint ](KobiCon_161-4220-E_Dual_RCA/Doc/Footprint1.jpg)  |
 | **LDK320 LDK220** <br/> Very small footprint voltage regulators. |  <br/> ![LDK320 LDK220 Symbol ](LDK220_LDK320/Doc/Symbol1.jpg) | Symbols kompatible with SOT32-5 and SOT323-5 pinouts. |
 | **Leader SMS405** <br/> SMD Shield |  |  <br/> ![Leader SMS405 Footprint ](Leader_SMS405/Doc/Footprint1.jpg)  |
