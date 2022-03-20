@@ -21,6 +21,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **ACHS-712x** <br/> Isolated Hall Effect-Based Current Sensor. |  <br/> ![ACHS-712x Symbol ](ACHS-712x/Doc/Symbol1.png) |  |
 | **ACS710** <br/> Isolated MEMS Current Sensor |  <br/> ![ACS710 Symbol ](ACS710/Doc/Symbol1.jpg) |  |
 | **AD8223** <br/> Single-Supply, Low Cost Instrumentation Amplifier |  <br/> ![AD8223 Symbol ](AD8223/Doc/Symbol1.jpg) |  |
+| **AD8293** <br/> Single-Supply, Low Cost Instrumentation Amplifier |  <br/> ![AD8293 Symbol ](AD8293/Doc/Symbol1.jpg) |  |
 | **ALPS_SPUN191400 Switch** <br/>  | Use Default KiCad "Switch:SW_DPDT_x2" |  <br/> ![ALPS_SPUN191400 Switch Footprint ](ALPS_SPUN191400_Switch/Doc/Footprint1.jpg)  |
 | **AP3012** <br/> Simple Boost Converter IC |  <br/> ![AP3012 Symbol ](AP3012/Doc/Symbol1.jpg) |  |
 | **ARM SWD** <br/>  1.27mm 2x5 Serial wire Debug Connector used by many ARM MCUs. Footprint allows for both SMD and TH jack. Includes footprint with and without solder paste  |  <br/> ![ARM SWD Symbol ](ARM_SWD/Doc/Symbol1.jpg) |  <br/> ![ARM SWD Footprint ](ARM_SWD/Doc/Footprint1.jpg)  |
