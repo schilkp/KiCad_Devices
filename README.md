@@ -35,6 +35,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **Finder 40.62** <br/> Dual throw relay |  <br/> ![Finder 40.62 Symbol ](Finder_40_62/Doc/Symbol1.jpg) |  |
 | **ICM-20689** <br/> 6DOF Acc + Gyro |  <br/> ![ICM-20689 Symbol ](ICM-20689/Doc/Symbol1.jpg) |  |
 | **IS62C256AL** <br/>  |  <br/> ![IS62C256AL Symbol ](IS62C256AL/Doc/Symbol1.jpg) |  <br/> ![IS62C256AL Footprint ](IS62C256AL/Doc/Footprint1.jpg)  |
+| **DGD05473** <br/> High Freq. High and Low Side Gate Driver. |  <br/> ![DGD05473 Symbol ](ISL8117A/Doc/Symbol1.jpg) |  <br/> ![DGD05473 Footprint ](ISL8117A/Doc/Footprint1.jpeg)  |
 | **Jack 3.5mm PJ-313D-6A** <br/> **STATUS:** Untested | Use Connector:AudioJack3 |  <br/> ![Jack 3.5mm PJ-313D-6A Footprint ](Jack_3.5mm_PJ-313D-6A/Doc/Footprint1.jpg)  |
 | **Jack 3.5mm Switchcraft 35RASMT4BHNTRX** <br/> **STATUS:** Untested, Maybe Borked?! | Use Connector:AudioJack3_SwitchTR |  <br/> ![Jack 3.5mm Switchcraft 35RASMT4BHNTRX Footprint ](Jack_3.5mm_Switchcraft_35RASMT4BHNTRX/Doc/Footprint1.jpg)  |
 | **JLCPCB SMT Assembly Tooling Hole** |  |  <br/> ![JLCPCB SMT Assembly Tooling Hole Footprint ](jlcpcb_tooling_hole/Doc/Footprint1.jpg)  |
