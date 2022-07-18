@@ -28,6 +28,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **ATF16V8C CPLD** <br/>  |  <br/> ![ATF16V8C CPLD Symbol ](ATF16V8C/Doc/Symbol1.jpg) |  |
 | **BarrelPolarity** <br/> Smaller barrel jack polarity indicator. |  <br/> ![BarrelPolarity Symbol ](BarrelPolarity/Doc/Symbol1.jpg) |  <br/> ![BarrelPolarity Footprint ](BarrelPolarity/Doc/Footprint1.jpg)  |
 | **Bourns 3362P** <br/> Small TH Trimmer pot |  |  <br/> ![Bourns 3362P Footprint ](Bourns_3362P/Doc/Footprint1.jpg)  |
+| **CD40109B** <br/> CMOS Quad Lo-to-Hi Vltg Level Shifter. |  <br/> ![CD40109B Symbol ](CD40109B/Doc/Symbol1.jpg) |  |
 | **DGD05473** <br/> High Freq. High and Low Side Gate Driver. |  <br/> ![DGD05473 Symbol ](DGD05473/Doc/Symbol1.jpeg) |  |
 | **DIN5_MIDI** <br/> A TH, Right-angle MIDI Jack. | Use DIN-5 |  <br/> ![DIN5_MIDI Footprint ](DIN5_MIDI/Doc/Footprint1.jpg)  |
 | **DPDT_4mm_2.5mm_TH** <br/> **STATUS:** Untested  |  |  <br/> ![DPDT_4mm_2.5mm_TH Footprint ](DPDT_4mm_2.5mm_TH/Doc/Footprint1.jpg)  |
