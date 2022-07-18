@@ -73,6 +73,7 @@ I make no guarantees about the devices in this repository. Please do your own du
 | **TRS_6.35mm_PCB** <br/> **STATUS:** Untested. | Use AudioJack3_Switch Or no/less switches |  <br/> ![TRS_6.35mm_PCB Footprint ](TRS_6.35mm_PCB/Doc/Footprint1.jpg)  |
 | **Vishay_WSL3637** <br/> Large, Kelvin-Connection Current Sensing Resistor. Note that there is a different footprint for smaller resistances. | Use R_Shunt. |  <br/> ![Vishay_WSL3637 Footprint ](Vishay_WSL3637/Doc/Footprint1.jpeg)  |
 | **VOM1271** <br/> Optocoupler with photodiode output |  <br/> ![VOM1271 Symbol ](VOM1271/Doc/Symbol1.jpg) |  |
+| **Vishay WSK1216 Current Shunt.** <br/>  |  |  <br/> ![Vishay WSK1216 Current Shunt. Footprint ](WSK1216/Doc/Footprint1.jpg)  |
 | **XSD-C4649_TO220_Heatsink** <br/> Small, cheap, TO220 Heatsink | Use Heatsink or Heatsink_Pad |  <br/> ![XSD-C4649_TO220_Heatsink Footprint ](XSD-C4649_TO220_Heatsink/Doc/Footprint1.jpg)  |
 | **YM2612** <br/> Vintage 6 Ch, 4 Operator FM Synth IC |  <br/> ![YM2612 Symbol ](YM2612/Doc/Symbol1.png) |  |
 
